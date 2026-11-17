@@ -14,7 +14,7 @@ body:
     attributes:
       label: Xplorer Version
       description: Which version of Xplorer are you using?
-      placeholder: "eg. 1.0.beta1
+      placeholder: eg. 1.0.beta1
     validations:
       required: true
 
@@ -23,7 +23,7 @@ body:
     attributes:
       label: Android Version
       description: Which Android version is your device running?
-      placeholder: "Android X"
+      placeholder: Android X...
     validations:
       required: true
 
@@ -32,7 +32,7 @@ body:
     attributes:
       label: Device
       description: What device are you using?
-      placeholder: "Samsung, Oppo, Realme, OnePlus, Xiaomi etc."
+      placeholder: Samsung, Oppo, Realme, OnePlus, Xiaomi etc.
     validations:
       required: false
 
